@@ -96,8 +96,8 @@
 # ------------------------------------------------------ 
 # lambda?メソッド
 
-add_lambda = ->(a, b){ a + b }
-p add_lambda.class     #=> Proc
-p add_lambda.lambda?   #=> true
+# add_lambda = ->(a, b){ a + b }
+# p add_lambda.class     #=> Proc
+# p add_lambda.lambda?   #=> true
 
 # ------------------------------------------------------ 
